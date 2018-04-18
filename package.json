@@ -1,0 +1,20 @@
+{
+  "name": "streamattendant",
+  "version": "0.0.1",
+  "description": "Assistant Program for Streamers to allow Mods to controls some 'on stream' content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlitchyLabs/StreamAttendant.git"
+  },
+  "author": "GlitchyLabs",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GlitchyLabs/StreamAttendant/issues"
+  },
+  "roadmap": "",
+  "homepage": "https://github.com/GlitchyLabs/StreamAttendant#readme"
+}
